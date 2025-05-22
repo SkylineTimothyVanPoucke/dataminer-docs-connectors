@@ -20,7 +20,7 @@ This connector is used to monitor a Lawo Power Core device. This device is a rem
 | Range   | Supported Firmware |
 |---------|--------------------|
 | 1.0.0.x | -                  |
-| 1.0.1.x | -                  |
+| 1.0.1.x | 7.0.178, 8.2.1324  |
 
 ### System Info
 
